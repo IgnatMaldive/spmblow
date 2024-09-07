@@ -1,5 +1,5 @@
 ---
-title: "Installation"
+title: "Augmented Installation"
 weight: 2
 draft: false
 description: "How to install the Blowfish theme."
