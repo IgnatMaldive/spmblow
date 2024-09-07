@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on Blowfish</title>
+    <link>http://localhost:1313/tags/automation/</link>
+    <description>Recent content in Automation on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2024 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to AI Automation Solutions</title>
+      <link>http://localhost:1313/docs/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/docs/welcome/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  AI Automation Solutions offers cutting-edge AI-powered automation services to revolutionize your business processes.
+&lt;/div&gt;
+
+&lt;p&gt;At AI Automation Solutions, our mission is to empower businesses with intelligent automation. We leverage the latest advancements in artificial intelligence to streamline operations, boost productivity, and drive innovation across industries.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
