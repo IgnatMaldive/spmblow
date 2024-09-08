@@ -291,6 +291,16 @@
     </item>
     
     <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Analytics</title>
       <link>http://localhost:1313/tags/analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -316,6 +326,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
       <guid>http://localhost:1313/tags/author/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/tags/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/tags/automation/</guid>
       <description></description>
       
     </item>
@@ -601,16 +621,6 @@
     </item>
     
     <item>
-      <title>New</title>
-      <link>http://localhost:1313/tags/new/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/new/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Organization Site</title>
       <link>http://localhost:1313/tags/organization-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -686,6 +696,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
       <guid>http://localhost:1313/tags/series/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/tags/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/tags/services/</guid>
       <description></description>
       
     </item>

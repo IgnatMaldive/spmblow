@@ -1,5 +1,5 @@
 ---
-title: "Welcome to AI Automation Solutions"
+title: "Welcome to AI Automation Solutions 22"
 weight: 1
 draft: false
 description: "Discover how our AI automation services can transform your business."
